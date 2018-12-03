@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\bin\Debug\E6_1._1.Busqueda_secuencial.exe.config
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\bin\Debug\E6_1._1.Busqueda_secuencial.exe
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\bin\Debug\E6_1._1.Busqueda_secuencial.pdb
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\obj\Debug\E6-1.1. Busqueda secuencial.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\obj\Debug\E6-1.1. Busqueda secuencial.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\obj\Debug\E6_1._1.Busqueda_secuencial.exe
+C:\Users\dell\source\repos\E6-1.1. Busqueda secuencial\E6-1.1. Busqueda secuencial\obj\Debug\E6_1._1.Busqueda_secuencial.pdb
