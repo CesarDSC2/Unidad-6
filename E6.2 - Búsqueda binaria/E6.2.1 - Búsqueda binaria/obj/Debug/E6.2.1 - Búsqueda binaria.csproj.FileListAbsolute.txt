@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\bin\Debug\E6.2.1 - Búsqueda binaria.exe.config
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\bin\Debug\E6.2.1 - Búsqueda binaria.exe
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\bin\Debug\E6.2.1 - Búsqueda binaria.pdb
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\obj\Debug\E6.2.1 - Búsqueda binaria.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\obj\Debug\E6.2.1 - Búsqueda binaria.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\obj\Debug\E6.2.1 - Búsqueda binaria.exe
+C:\Users\cesar\source\repos\E6.2.1 - Búsqueda binaria\E6.2.1 - Búsqueda binaria\obj\Debug\E6.2.1 - Búsqueda binaria.pdb
